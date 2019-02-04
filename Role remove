@@ -1,0 +1,6 @@
+:root {
+
+#app-mount .userPopout-3XzG_A .roleRemoveIcon-2-TeGW {display: block;height:15px;width:15px}
+#app-mount .userPopout-3XzG_A .role-2irmRk:hover .roleCircleButton-377y0l {transition: all 100ms ease-in;height:100%;width: 100%;opacity:.85}
+#app-mount .userPopout-3XzG_A .addButton-pcyyf6 {box-sizing: border-box;width: 22px;height: 22px}
+#app-mount .userPopout-3XzG_A .addButtonIcon-1NMJ8u {height: 8px;width: 8px}
