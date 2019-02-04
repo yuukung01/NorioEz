@@ -80,6 +80,7 @@ background: rgb(47, 49, 54);
 
 /* TRANSPARENCY BY THE NAME/mic/headphone/settings part */
 .theme-dark .container-2Thooq, .theme-dark .container-2lgZY8 { 
+    background: rgba(0,0,0,0.7);
     border-radius: 10px;
     border: 1px solid #fff;
     border-color: #123;
@@ -683,13 +684,13 @@ element.style {
     border-radius: 5px;
 }
 .theme-dark .container-2x5lvQ section {
-    background-color: rgba(0,0,0,0.6);
+    background-color: rgba(0,0,0,0.7);
     border: 1px solid #123;
     border-radius: 5px;
 }
 /* */
 .theme-dark .searchQuery-1B7rtx.selected-rZcOL- {
-    background-color: rgba(0,0,0,0.6);
+    background-color: rgba(0,0,0,0.7);
 	border: 1px solid #123;
     border-radius: 5px;
 }
