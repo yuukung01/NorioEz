@@ -668,6 +668,11 @@ element.style {
 /* Place when its connected to a call where it has disconnect button and etc */
 .theme-dark .container-1UB9sr {
     background: rgba(0,0,0,.7);
+    border-left: 1px solid #123;
+    border-right: 1px solid #123;
+    border-top: 1px solid #123;
+    border-bottom: 1px solid rgba(0,0,0,0);
+}
     
 }
 
