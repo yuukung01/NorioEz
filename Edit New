@@ -668,11 +668,16 @@ element.style {
 }
 /* Place when its connected to a call where it has disconnect button and etc */
 .theme-dark .container-1UB9sr {
-    background: rgba(0,0,0,.7);
-    border-left: 1px solid #123;
-    border-right: 1px solid #123;
-    border-top: 1px solid #123;
-    border-bottom: 1px solid rgba(0,0,0,0);
+    -webkit-box-align: center;
+    align-items: center;
+    background: rgba(32,34,37,.3);
+    border-bottom: 1px solid #36393f;
+    color: #fff;
+    display: flex;
+    flex-shrink: 0;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 10px;
 }
     
 }
